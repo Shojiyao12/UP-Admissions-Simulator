@@ -12,7 +12,7 @@ When logging in as an ADMIN, the login information was set as follows,
 
 But, this can be modified within the login_check.php file
 
-## Software Development Life Cycle (SDLC) used:
+## Software Development Life Cycle (SDLC)
 - Spiral Model consisting of the following:  
   - Planning - so that at least, I have a basis on where to start and what will be the specifications I will include in my software project. 
   - Design - so that it looks visually appealing and not just plain for users. 
