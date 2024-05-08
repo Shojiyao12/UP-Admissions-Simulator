@@ -11,7 +11,7 @@ Software Development Life Cycle (SDLC) used:
                specifications I will include in my software project. 
   • Design - so that it looks visually appealing and not just plain for users. 
   • Coding - for the reason that this project would require it. 
-  • Testing - since in any project done, this phase is crucial to ensure that the user does 
+  • Testing - since in any project, this phase is crucial to ensure that the user does 
               not experience any sudden errors while using it. 
 
 Target User/s:
