@@ -35,6 +35,7 @@ Click the link to access the RTM (Requirements Traceability Matrix): https://dri
 
 Preview of Web Application:
 ![Homepage](https://github.com/Shojiyao12/UP-Admissions-Simulator/assets/90734662/b1693863-1b1c-4f89-bba4-33953c3beac4)
-![Sample User![Sample User Portal as an Applicant](https://github.com/Shojiyao12/UP-Admissions-Simulator/assets/90734662/5e56fde4-0b86-4145-80d2-cbe330d876a8)
- Portal as an Applicant](https://github.com/Shojiyao12/UP-Admissions-Simulator/assets/90734662/d9fa81b5-7857-448b-a285-17a4f477f6f4)
+![Sample User Portal as an Applicant](https://github.com/Shojiyao12/UP-Admissions-Simulator/assets/90734662/c60b96f0-1e59-4ed2-a6fb-92b9dfe75743)
+![Sample Applicant Requirements Submission Form](https://github.com/Shojiyao12/UP-Admissions-Simulator/assets/90734662/07cdd388-d492-492a-be6f-ea4cc77277ed)
+
 
