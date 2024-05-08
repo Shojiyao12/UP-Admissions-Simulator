@@ -27,7 +27,7 @@
   • Database
         MySQL
 
-# Core Computer Science Concept:
+# Core Concept:
   • Web Development
 
 Click the link to access the demo video: https://drive.google.com/drive/u/2/folders/1HZ7KUkzNyROC-7NY40EX8KPnANZgCkM3
