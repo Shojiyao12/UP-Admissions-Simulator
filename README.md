@@ -36,8 +36,9 @@ But, this can be modified within the login_check.php file
 - Introduction to Software Engineering
 - Web Development
 
-Click the link to access the demo videos for the workflow of the web application: https://drive.google.com/drive/u/2/folders/1HZ7KUkzNyROC-7NY40EX8KPnANZgCkM3
-Click the link to access the RTM (Requirements Traceability Matrix), to better understand the development process: https://drive.google.com/drive/u/2/folders/1AN9MqZ7xGHazSCcnQ0MfMLM5rTxHseeP
+### URL
+- Click the link to access the demo videos for the workflow of the web application: https://drive.google.com/drive/u/2/folders/1HZ7KUkzNyROC-7NY40EX8KPnANZgCkM3
+- Click the link to access the RTM (Requirements Traceability Matrix), to better understand the development process: https://drive.google.com/drive/u/2/folders/1AN9MqZ7xGHazSCcnQ0MfMLM5rTxHseeP
 
 ### Note:
 - Being that this is a simulator only, the purpose of the actual software is just for user experience and testing, and in no way will the content of this simulator reflect directly into the actual admission process of UP.
